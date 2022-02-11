@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 도성현, DoSungHyun in english
+- 👋 Hi, I’m 성현, SungHyun in english
 - 👀 I’m interested in python, android
 - 🌱 I’m currently learning data structure and algorithm for university
 - 📫 How to reach me contact by glaxyt@naver.com

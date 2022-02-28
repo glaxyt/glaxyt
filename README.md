@@ -2,9 +2,9 @@
 - 
 - #👀 I’m interested in python, deaplearning
 - 
-- #🌱 I’m currently learning data structure and algorithm for university
+- #🌱 I’m currently learning data structure and algorithm
 - 
-- #📫 How to reach me contact by 
+- #📫 How to reach me contact by glaxyt@naver.com 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=glaxyt" height="165">

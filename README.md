@@ -1,6 +1,6 @@
 - #👋 Hi, I’m 성현, SungHyun in english
 - 
-- #👀 I’m interested in python, android
+- #👀 I’m interested in python, deaplearning
 - 
 - #🌱 I’m currently learning data structure and algorithm for university
 - 

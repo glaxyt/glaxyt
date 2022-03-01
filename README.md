@@ -4,7 +4,7 @@
 
 - #🌱 I’m currently learning data structure and algorithm
 
-- #📫 How to reach me contact by glaxyt@naver.com or you can contact in https://sunghyun98.tistory.com/
+- #📫 How to reach me contact by glaxyt@naver.com or you can contact at https://sunghyun98.tistory.com/
 
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt">

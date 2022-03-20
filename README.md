@@ -2,7 +2,7 @@
 
 - #👀 I’m interested in python, deaplearning
 
-- #🌱 I’m currently learning deeplearning and algorithm
+- #🌱 I’m currently learning pandas and algorithm
 
 - #📫 How to reach me contact by glaxyt@naver.com or you can contact on https://sunghyun98.tistory.com/
 

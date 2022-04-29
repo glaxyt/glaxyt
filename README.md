@@ -1,6 +1,6 @@
 - #👋 Hi, I’m 도성현, Do Sung Hyun in english
 
-- #👀 I’m interested in python, deaplearning
+- #👀 I’m interested in python, deeplearning
 
 - #🌱 I’m currently learning pandas and algorithm
 

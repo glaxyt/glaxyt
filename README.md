@@ -7,7 +7,7 @@
 - #📫 How to reach me contact by glaxyt@naver.com or you can contact on https://sunghyun98.tistory.com/
 
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt)
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=glaxyt" height="165">
 
 <!---

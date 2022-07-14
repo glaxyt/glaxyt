@@ -1,8 +1,8 @@
 - #👋 Hi, I’m 도성현, Do Sung Hyun in english
 
-- #👀 I’m interested in python, deeplearning
+- #👀 I’m interested in django, deeplearning
 
-- #🌱 I’m currently learning pandas and algorithm
+- #🌱 I’m currently learning django and react
 
 - #📫 How to reach me contact by glaxyt@naver.com or you can contact on https://sunghyun98.tistory.com/
 

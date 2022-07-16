@@ -1,10 +1,12 @@
-- #👋 Hi, I’m 도성현, Do Sung Hyun in english
+- # 개발자 프로필.
 
-- #👀 I’m interested in django, deeplearning
+- # 가능언어: python, java.
 
-- #🌱 I’m currently learning django and react
+- # 장고, 리액트 공부 중.
 
-- #📫 How to reach me contact by glaxyt@naver.com or you can contact on https://sunghyun98.tistory.com/
+- # 현재 NFT 블록체인 마켓 앱 만들기 with 그라운드X 3기 참여 중 (2022.7.13 ~ ing)
+
+- # 블로그 주소: https://sunghyun98.tistory.com/
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt)

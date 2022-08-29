@@ -9,7 +9,7 @@
 
 
 ![glaxyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaxyt&show_icons=true&theme=shades-of-purple)
-[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
+![[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
 
 <!---
 glaxyt/glaxyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

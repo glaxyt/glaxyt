@@ -3,8 +3,6 @@
   
 - ###### 가능언어: Python, Java. Javascript
 
-- ###### 관심사: React
-
 - ###### 블로그 주소: https://sunghyun98.tistory.com/
 
 

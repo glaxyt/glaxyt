@@ -1,7 +1,7 @@
 - #### 개발자 프로필.
   한국외국어대학교 정보통신공학과 재학 중
   
-- ###### Interest in: Python/Java/JS/Spring/Vue
+- ###### Interest in: Python/Java/JS/Spring/Vue/MySQL
 
 - ###### 블로그 주소: https://sunghyun98.tistory.com/
 

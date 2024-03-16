@@ -6,7 +6,7 @@
 - ###### 블로그 주소: https://sunghyun98.tistory.com/
 
 
-![glaxyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaxyt&show_icons=true&theme=shades-of-purple)
+![도성현's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaxyt&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
 <!---

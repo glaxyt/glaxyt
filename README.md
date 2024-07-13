@@ -6,8 +6,6 @@
 - ###### Blog: https://sunghyun98.tistory.com/
 - ###### LinkedIn: https://www.linkedin.com/in/sunghyundo/
 
-Blog: https://sunghyun98.tistory.com/
-
 ![glaxyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
 

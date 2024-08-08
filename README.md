@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </p>
 
-## 📊 GitHub Stats
-![glaxyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaxyt&show_icons=true&theme=radical)
-
 ## 🏆 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
 

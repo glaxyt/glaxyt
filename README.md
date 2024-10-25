@@ -14,7 +14,7 @@
 - 2023년 국립중앙과학관 주관 GBIF 데이터 활용 해커톤 2위 수상
 - 2023년 교육기관 공학도서관 파이썬&AI 교육 강사 활동
 - 한국외국어대학교 정보통신공학과 커뮤니티 및 코딩존 예약 서비스 개발
-  - Link: [https://ice-advice.co.kr/](https://ice-advice.co.kr/)
+  - Link: [ICE ADVICE 바로가기](https://ice-advice.co.kr/)
 
 ## 💻 Tech Stack
 <p align="left">

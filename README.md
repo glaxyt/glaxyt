@@ -57,6 +57,7 @@ Databases & Caching
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glaxyt)](https://solved.ac/glaxyt/)
 
 ## 📜 Certifications
+- 정보처리기사
 - SQLD(SQL 개발자)
 - ADSP(데이터분석 준전문가)
 

@@ -4,8 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sunghyundo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunghyundo/)
 
 ## 🎓 About Me
-- 한국외국어대학교 정보통신공학과 재학 중
-- Own the day
+- 한국외국어대학교 정보통신공학과 졸업(2019.03 - 2025.08)
 
 ## 🚀 Activities
 - 네이버 부스트캠프 웹・모바일 9기(2024.06 ~ 2025.02)
@@ -24,27 +23,34 @@
   - [트러블 슈팅] RTR 인증 시스템 구축 [WIKI LINK](https://github.com/ICE-AdvICE/AdvICE_WebService/wiki/RTR-%EB%8F%84%EC%9E%85%EA%B8%B0)
   - [트러블 슈팅] 복합키 인덱스를 활용한 성능 최적화 [WIKI LINK](https://github.com/ICE-AdvICE/AdvICE_WebService/wiki/%5B%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85%5D-%EB%B3%B5%ED%95%A9%ED%82%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94)
 
-
 ## 💻 Tech Stack
 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
+
 Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </p>
+
 Databases & Caching
 <p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+</p>
+
+Messaging
+<p align="left">
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
 </p>
 
 ## 🏆 Awards

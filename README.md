@@ -5,10 +5,11 @@
 
 ## 🎓 About Me
 - 한국외국어대학교 정보통신공학과 졸업(2019.03 - 2025.08)
+- 농협중앙회 IT(2025.12 - )
 
 ## 🚀 Activities
 - 네이버 부스트캠프 웹・모바일 9기(2024.06 ~ 2025.02)
-- 2023년 교육기관 공학도서관 파이썬&AI 교육 강사 활동
+- 2023년 공학도서관 파이썬&AI 교육 강사 활동
 - 한국외국어대학교 정보통신공학과 스터디룸 예약 시스템 개발
   - link: [ICE STUDYROOM 바로가기](https://ice-studyroom.com/)
   - [트러블 슈팅] Clock으로 시간과 강결합된 비즈니스 로직 테스트 코드 작성하기 [WIKI LINK](https://github.com/ICE-STUDYRES/ice-studyroom/wiki/%5B%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85%5D-%EC%8B%9C%EA%B0%84%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EB%B2%95-%E2%80%90-Clock%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
@@ -45,7 +46,6 @@ Databases & Caching
 <p align="left">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
 </p>
 
 Messaging
